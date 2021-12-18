@@ -1,5 +1,11 @@
 # Firstapp
 
+* Angular project of Nse website 
+* Project contains different sactions that are linked to main appcomponent.html file 
+* different sections have their workings and all are connected .
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12.
 
 ## Development server
