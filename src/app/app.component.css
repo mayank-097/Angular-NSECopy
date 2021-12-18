@@ -1,0 +1,23 @@
+.mainbody{
+    margin: 20px;
+}
+
+.leftpan{
+    width: 40%;
+    background-color:gainsboro;
+    display: inline-block;
+    float: left;
+}
+
+.mainpan{
+    width: 40%;
+    background-color: rgb(146, 146, 146);
+    display: inline-block;
+}
+
+.rightpan{
+    width: 20%;
+    background-color: indianred;
+    float: right;
+    display: inline-block;
+}

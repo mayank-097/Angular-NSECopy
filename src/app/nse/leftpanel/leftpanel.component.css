@@ -1,0 +1,25 @@
+h5{
+
+    display: inline-block;
+    float: right;
+}
+
+h3{
+    display: inline-block;
+}
+
+.mar{
+    margin-top: 10px;
+    color: brown;
+}
+
+.redcon{
+color:red;
+}
+h6{
+    display: inline-block;
+}
+
+h4 {
+    margin-top: 30px;
+}

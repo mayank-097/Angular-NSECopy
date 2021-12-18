@@ -1,0 +1,34 @@
+.apphead{
+    margin: 20px;
+    height: 150px;
+
+}
+
+.nseimg {
+
+    width:20%;
+    height: 100%;
+    
+    float: left;
+    display: inline-block;
+    
+}
+
+.nsehead {
+    width: 65%;
+    text-align: center;
+    background-color: black;
+    color: indigo;
+    display: inline-block;
+}
+
+.button{
+    background-color: brown;
+}
+
+.nsenif{
+    float: right;
+    display: inline-block;
+    color: darkviolet;
+    margin: 10px;
+}
